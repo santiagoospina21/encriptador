@@ -86,7 +86,7 @@ const addTextArea = (texto) => {
     <button class ="btn-copiar">Copiar</button>`
   );
   const displayArea = document.querySelector(".textarea-display");
-  btnCopy = document.querySelector(".btn-copiar");
+  const btnCopy = document.querySelector(".btn-copiar");
   displayArea.value = texto;
   copyClipboard(texto);
 };
