@@ -1,3 +1,6 @@
+import "core-js/stable";
+import "regenerator-runtime/runtime";
+
 const inputTexto = document.querySelector(".input-texto");
 const btnEncriptar = document.querySelector(".btn-encriptar");
 const btnDesencriptar = document.querySelector(".btn-desencriptar");
