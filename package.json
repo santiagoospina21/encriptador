@@ -1,13 +1,10 @@
 {
   "name": "challenge",
   "version": "1.0.0",
-  "default": "script.js",
-  "targets": {
-    "main": false
-  },
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html "
+    "build": "parcel build index.html --dist-dir ./dist"
   },
   "author": "Santiago Ospina",
   "license": "ISC",
