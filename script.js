@@ -92,6 +92,7 @@ const addTextArea = (texto) => {
 };
 
 const copyClipboard = (texto) => {
+  const btnCopy = document.querySelector(".btn-copiar");
   btnCopy.addEventListener("click", () => {
     navigator.clipboard.writeText(texto);
   });
