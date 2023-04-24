@@ -1,8 +1,10 @@
 {
   "name": "challenge",
   "version": "1.0.0",
-  "description": "",
   "default": "script.js",
+  "targets": {
+    "main": false
+  },
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
@@ -11,10 +13,20 @@
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.30.1",
-    "parcel": "^2.8.3",
     "regenerator-runtime": "^0.13.11"
   },
   "devDependencies": {
+    "parcel": "^2.8.3",
     "process": "^0.11.10"
-  }
+  },
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagoospina21/encriptador.git"
+  },
+  "bugs": {
+    "url": "https://github.com/santiagoospina21/encriptador/issues"
+  },
+  "homepage": "https://github.com/santiagoospina21/encriptador#readme",
+  "description": ""
 }
