@@ -12,7 +12,7 @@
 100C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\is-json\.npmignore133267724132819434 0
 127C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\packager-js\lib\GlobalOutputFormat.js133267724137630679 0
 113C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\source-map-js\lib\quick-sort.js133267724136349199 0
-86C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\package-lock.json133267724184191179 0
+86C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\package-lock.json133267775597661239 0
 110C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\workers\lib\index.js133267724139291322 0
 143C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\_path.js133267724135960262 0
 116C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\graph\src\AdjacencyList.js133267724135700930 0
@@ -21,7 +21,7 @@
 106C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\abortcontroller-polyfill133267724138478410 1
 109C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\stable\url\index.js133267724165781545 0
 123C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\reporter-dev-server\src\Server.js133267724136040031 0
-100C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\.package-lock.json133267724184460465 0
+100C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\.package-lock.json133267775597860946 0
 126C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\modules\esnext.symbol.replace-all.js133267724158750357 0
 73C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\dist133267724366579311 1
 112C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\css-what\lib\es\types.d.ts.map133267724139551174 0
@@ -60,7 +60,7 @@
 133C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133267724133158526 0
 116C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\svgo\plugins\convertShapeToPath.js133267724140329126 0
 119C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\internals\get-substitution.js133267724162530250 0
-81C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules133267724184440503 1
+81C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules133267775597252327 1
 106C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\css-tree\data\patch.json133267724150957266 0
 108C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\full\map\key-of.js133267724167616654 0
 153C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.cmd133267724179583318 0
@@ -81,7 +81,7 @@
 112C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\type-fest\ts41\snake-case.d.ts133267724142403549 0
 136C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\css-select\node_modules\domutils\lib\esm\legacy.js.map133267724142044506 0
 113C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\full\symbol\iterator.js133267724167347367 0
-87C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@lmdb133267724183762320 1
+87C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@lmdb133267775597252327 1
 114C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\features\iterator\map.js133267724168494295 0
 121C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\full\typed-array\int16-array.js133267724165941118 0
 118C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\node-addon-api\tools\clang-format.js133267724138318836 0
@@ -143,7 +143,7 @@
 120C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\es\array\virtual\find-index.js133267724159927205 0
 103C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\msgpackr\package.json133267724140648240 0
 149C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133267724150388789 0
-99C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@msgpackr-extract133267724183762320 1
+99C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\@msgpackr-extract133267775597252327 1
 121C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\core-js\full\reflect\define-metadata.js133267724152128064 0
 140C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\csso\node_modules\css-tree\cjs\lexer\generic-an-plus-b.cjs133267724143370959 0
 100C:\Users\ospin\Documents\Proyectos-Programacion\Oracle-One\Challenge\node_modules\source-map\LICENSE133267724133762014 0
